@@ -1,4 +1,4 @@
-package Synchronizers;
+package synchronizers;
 
 public class Group implements Runnable {
     @Override
